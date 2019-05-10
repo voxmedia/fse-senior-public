@@ -38,11 +38,9 @@ For this exercise, we need methods that will examine data regarding the original
 
 We ask that to prepare, you:
 
-1. Clone this repo `https://github.com/voxmedia/fse-e2-public` to your computer
+1. Clone this repo `https://github.com/voxmedia/fse-senior-public` to your computer
 2. Choose either JavaScript or Ruby
-3. Make sure you can run one of the following in the `fse-e2-public` repo:
-   - `ruby attempted-solution.rb`
-   - `node attempted-solution.js`
+3. Make sure you have a working environment for the language of your choice
 4. Have your editor of choice ready, and be ready to share your screen
 
 ## How we interview
